@@ -1,0 +1,7 @@
+2021-02-25 10:23:39 [main] INFO  c.s.SpringbootTestApplicationTests - Starting SpringbootTestApplicationTests on LAPTOP-JCEMPM0T with PID 11664 (started by dong in C:\Users\dong\IdeaProjects\WHRTN_signature)
+2021-02-25 10:23:39 [main] INFO  c.s.SpringbootTestApplicationTests - No active profile set, falling back to default profiles: default
+2021-02-25 10:23:41 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-25 10:23:41 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+2021-02-25 10:23:41 [main] WARN  o.t.templatemode.TemplateMode - [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-02-25 10:23:42 [main] INFO  c.s.SpringbootTestApplicationTests - Started SpringbootTestApplicationTests in 3.051 seconds (JVM running for 3.976)
+2021-02-25 10:23:42 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
